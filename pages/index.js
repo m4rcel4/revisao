@@ -6,7 +6,7 @@ export default function Home () {
     <>
     
        <Header/>
-       <h4>Contúdo página inicial</h4>
+       
    </>
   )
   }
